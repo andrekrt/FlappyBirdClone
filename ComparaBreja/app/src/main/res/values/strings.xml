@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ComparaBreja</string>
+    <string name="ml1">Quantidade em ml</string>
+    <string name="preco1">Preço</string>
+    <string name="ml2">Quantidade em ml</string>
+    <string name="preco">Preço</string>
+    <string name="verifica">Verificar</string>
+
+</resources>
